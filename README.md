@@ -1,0 +1,2 @@
+# dmenu
+Simple dmenu config
